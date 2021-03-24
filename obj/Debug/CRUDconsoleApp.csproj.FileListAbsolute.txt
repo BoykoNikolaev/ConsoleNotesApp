@@ -1,0 +1,7 @@
+C:\Users\nikbu\source\repos\CRUDconsoleApp\CRUDconsoleApp\bin\Debug\CRUDconsoleApp.exe.config
+C:\Users\nikbu\source\repos\CRUDconsoleApp\CRUDconsoleApp\bin\Debug\CRUDconsoleApp.exe
+C:\Users\nikbu\source\repos\CRUDconsoleApp\CRUDconsoleApp\bin\Debug\CRUDconsoleApp.pdb
+C:\Users\nikbu\source\repos\CRUDconsoleApp\CRUDconsoleApp\obj\Debug\CRUDconsoleApp.csprojAssemblyReference.cache
+C:\Users\nikbu\source\repos\CRUDconsoleApp\CRUDconsoleApp\obj\Debug\CRUDconsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\nikbu\source\repos\CRUDconsoleApp\CRUDconsoleApp\obj\Debug\CRUDconsoleApp.exe
+C:\Users\nikbu\source\repos\CRUDconsoleApp\CRUDconsoleApp\obj\Debug\CRUDconsoleApp.pdb
